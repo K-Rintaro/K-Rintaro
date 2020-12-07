@@ -2,7 +2,7 @@
 
 - Specialty: Front end, Bot development, Security & Privacy 
 - Belong to: Osaka University SEEDS
-- I am interested in Ruby on Rails & CDN.
+- I am interested in Ruby on Rails & Kotlin.
 - I can code R/JavaScript/HTML/CSS/Python/Swift
 - I am learning Kotlin!
 

@@ -2,7 +2,7 @@
 
 - Specialty: Front end, Bot development, Security & Privacy 
 - Belong to: ISOC-JP (Internet Society Japan Chapter) https://www.internetsociety.org
-- I am interested in Ruby on Rails & Kotlin.
+- I am interested in Kotlin.
 - I can code R/JavaScript/HTML/CSS/Swift
 
 #### Achievement 

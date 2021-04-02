@@ -15,7 +15,7 @@ Please send from the form of https://k-rintaro.github.io \
 (Emergency contact → please send by E-mail)
 
 #### Schedule
-I will acquire a domain name in February or March so the homepage domain & E-mail address will be changed soon.
+I will acquire a domain name in April or May so the homepage domain & E-mail address will be changed soon.
 
 #### Other 
 DEV Community : https://dev.to/krintaro

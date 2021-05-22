@@ -12,11 +12,8 @@
 - Poster accepted: 42nd IEEE Symposium on Security & Privacy (2021)
 
 #### Contact
-Please send from the form of https://k-rintaro.github.io \
+Please send from the form of https://rintaro.tech \
 (Emergency contact → please send by E-mail)
-
-#### Schedule
-I will acquire a domain name in April or May so the homepage domain & E-mail address will be changed soon.
 
 #### Other 
 DEV Community : https://dev.to/krintaro

@@ -12,8 +12,8 @@
 - Poster accepted: 42nd IEEE Symposium on Security & Privacy (2021)
 
 #### Contact
-Please send from the form of https://rintaro.tech \
-(Emergency contact → please send by E-mail)
+- Please send from the form of https://rintaro.tech 
+- Email: vip@rintaro.tech or git.rintaro@gmail.com
 
 #### Other 
 DEV Community : https://dev.to/krintaro

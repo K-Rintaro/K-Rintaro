@@ -2,7 +2,8 @@
 
 - Specialty: Front end, Bot development, Security & Privacy, Server side(Node.js)
 - Belong to: ISOC-JP (Internet Society Japan Chapter) https://www.internetsociety.org
-- I am interested in Kotlin.
+- I'm interested in Kotlin.
+- I’m currently a student i guess
 - I can code R/JavaScript/HTML/CSS/Swift/Ruby
 
 #### Achievement 

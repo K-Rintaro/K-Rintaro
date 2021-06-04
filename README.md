@@ -11,6 +11,7 @@
 - Osaka University SEEDS 6th (2020 - 2021) Finished
 - TechAcademy Scholarship (2021)
 - Poster accepted: 42nd IEEE Symposium on Security & Privacy (2021)
+- UC Berkeley Academic Talent Development Program - Secondary Division (2021)
 
 #### Contact
 - Email: vip@rintaro.tech or git.rintaro@gmail.com

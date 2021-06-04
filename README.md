@@ -8,7 +8,7 @@
 
 #### Achievement 
 - HarvardX Verified Certificate (2020) - PH125.1x: Data Science: R Basics https://courses.edx.org/certificates/785070ea313948cebf372ec52246a049
-- Osaka University SEEDS 6th (2020 - 2021) Finished
+- Osaka University SEEDS 6th (2020 - 2021)
 - TechAcademy Scholarship (2021)
 - Poster accepted: 42nd IEEE Symposium on Security & Privacy (2021)
 - UC Berkeley Academic Talent Development Program (2021)

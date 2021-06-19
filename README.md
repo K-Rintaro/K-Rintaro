@@ -14,7 +14,7 @@
 - UC Berkeley Academic Talent Development Program (2021)
 
 #### Contact
-- Email: vip@rintaro.tech or git.rintaro@gmail.com
+[Rintaro's Email & Social Media Policy](https://github.com/K-Rintaro/K-Rintaro/wiki/Rintaro's-Email-&-Social-Media-Policy)
 
 #### Other 
 DEV Community : https://dev.to/krintaro
